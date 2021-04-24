@@ -2,7 +2,3 @@
 - I'm a 19 y.o. beginner iOS developer 🔨
 - Currently learning SwiftUI, WidgetKit and MVVM architectural pattern.
 - Pronouns: he/him.
-
----
-
-
