@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Beka, undergraduate student at 인하대학교.
-- Beginner iOS developer 🔨
+- I'm a beginner iOS developer 🔨
 - Currently learning SwiftUI, CoreData, Combine and MVVM architectural pattern.
 - Pronouns: he/him.
 
